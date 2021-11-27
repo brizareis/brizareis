@@ -1,8 +1,8 @@
-## Oi, eu sou Briza! Uma estudande que quer ser uma futura Desenvolvedora Frontend.
+## Oi, eu sou Briza! Uma estudante que quer ser uma futura Desenvolvedora Frontend.
 
 <div align="center">
   <a href="https://github.com/brizareis">
-  <img height="165em" width="350em" src="https://github-readme-stats.vercel.app/api?username=brizareis&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="166em" width="350em" src="https://github-readme-stats.vercel.app/api?username=brizareis&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizareis&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
