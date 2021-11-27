@@ -2,6 +2,12 @@
 
 Uma estudante que quer ser uma futura Desenvolvedora Frontend. 🚀
 
+Sou formada em Comunicação Social, mas smepre gostei de tecnologia. Minha meta atual é dar um passo a mais na carreira me tornando uma desenvolvedora Front-End para atuar na área de Tecnologia. Para isso estou buscando os conhecimentos necessário e estudando bastante, o importante é dar um passo de cada vez. 
+
+🎯 Amo Marketing, mas também sempre tive vontade aprender mais sobre Tecnologia, afinal conhecimento nunca é demais 📚
+
+#### Bora Codar! 💻
+
 <div align="center">
   <a href="https://github.com/brizareis">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brizareis&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
