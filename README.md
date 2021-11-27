@@ -1,4 +1,6 @@
-## Oi, eu sou Briza! Uma estudante que quer ser uma futura Desenvolvedora Frontend.
+## Oi, Briza aqui! 🙋‍♀️
+
+Uma estudante que quer ser uma futura Desenvolvedora Frontend. 🚀
 
 <div align="center">
   <a href="https://github.com/brizareis">
