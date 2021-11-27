@@ -1,10 +1,10 @@
 ## Oi, Briza aqui! 🙋‍♀️
 
-Uma estudante que quer ser uma futura Desenvolvedora Frontend. 🚀
+Uma estudante que quer ser uma futura Desenvolvedora Front-End. 🚀
 
-Sou formada em Comunicação Social, mas smepre gostei de tecnologia. Minha meta atual é dar um passo a mais na carreira me tornando uma desenvolvedora Front-End para atuar na área de Tecnologia. Para isso estou buscando os conhecimentos necessário e estudando bastante, o importante é dar um passo de cada vez. 
+Sou formada em Comunicação Social, mas sempre gostei de tecnologia. Quero dar um passo a mais na carreira e me tornar uma desenvolvedora Front-End para atuar na área de Tecnologia. Estou em busca dos conhecimentos necessários e sigo estudando bastante, o importante é dar um passo de cada vez!
 
-🎯 Amo Marketing, mas também sempre tive vontade aprender mais sobre Tecnologia, afinal conhecimento nunca é demais 📚
+🎯 Amo Marketing, mas sempre tive vontade aprender mais sobre Tecnologia, afinal conhecimento nunca é demais 📚
 
 #### Bora Codar! 💻
 
